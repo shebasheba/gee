@@ -1971,6 +1971,10 @@ mark {
 background-color: white;
 
 color: black; 
+line-height: 1.7;
 
+}
 
+h1 {
+ font-size: 50px;
 }
