@@ -1966,3 +1966,11 @@ body {
     border:1px solid #f00;
 }
 
+mark {
+
+background-color: white;
+
+color: black; 
+line-height: 1.7;
+
+}
